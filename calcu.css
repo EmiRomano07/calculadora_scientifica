@@ -1,0 +1,51 @@
+table, td {
+    border:1px solid black;
+  }
+
+#cc {
+    text-align: center;
+    color: rgba(255, 0, 119, 0.699);
+}
+
+table {
+    background-color: rgba(13, 2, 20, 0.637);
+    width: 20%;
+    height: 70%;
+    padding: 60px;
+    text-align: center;
+    padding-right: 13%;
+}
+
+#dividir, #restar, #igual {
+    text-align: right;
+}
+
+img {
+    width: 100%;
+}
+
+#encender, #delete {
+    background-color: rgba(255, 0, 0, 0.685);
+}
+
+#negro {
+    background-color: black;
+}
+
+#gris {
+    background-color: grey;
+}
+
+#gris_oscuro {
+    color: darkgrey;
+    text-align: left;
+}
+
+#loguito {
+    width: 5.2%;
+}
+
+i{
+    text-align: right;
+}
+
